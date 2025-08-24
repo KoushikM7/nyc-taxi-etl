@@ -1,0 +1,6 @@
+.env
+artifacts/
+tempcodeRunnerFile.py
+output/
+docker-compose.yaml
+analysis/.env
